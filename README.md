@@ -1,6 +1,7 @@
 ### Steps to run the project
 
 * Using `yarn`, run the following commands in the app directory:
+
   ```
   yarn
   yarn start
